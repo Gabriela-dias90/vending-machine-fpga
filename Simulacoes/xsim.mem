@@ -1,8 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/alissonantunes/vending_machine/vending_machine.srcs/sources_1/new/vending_machine.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity vending_machine_fsm
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/alissonantunes/vending_machine/vending_machine.srcs/sources_1/new/vending_machine_datapath.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity vending_machine_datapath
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/alissonantunes/vending_machine/vending_machine.srcs/sources_1/new/vending_machine_top.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity vending_machine_top
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/alissonantunes/vending_machine/vending_machine.srcs/sim_1/new/tb_vending_machine_top.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity tb_vending_machine_top
