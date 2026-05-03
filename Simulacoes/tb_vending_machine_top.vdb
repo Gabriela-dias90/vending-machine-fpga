@@ -1,0 +1,18 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2017.2/bin/unwrapped/lnx64.o/xelab -wto c14e09ed9cb84de5a11fe2926d9bcf63 --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot tb_vending_machine_top_behav xil_defaultlib.tb_vending_machine_top -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture rtl of entity xil_defaultlib.vending_machine_fsm [vending_machine_fsm_default]
+Compiling architecture rtl of entity xil_defaultlib.vending_machine_datapath [vending_machine_datapath_default]
+Compiling architecture structural of entity xil_defaultlib.vending_machine_top [vending_machine_top_default]
+Compiling architecture sim of entity xil_defaultlib.tb_vending_machine_top
+Built simulation snapshot tb_vending_machine_top_behav
