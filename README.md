@@ -1,2 +1,11 @@
-# vending-machine-fpga
-Projeto Integrador 2A – Engenharia de Computação (IESB). Sistema de vending machine em FPGA desenvolvido em VHDL, com arquitetura baseada em FSM e datapath. Implementa inserção de moedas, seleção de produtos e cálculo de troco. Equipe: Alisson Antunes, Bárbara dos Anjos, Gabriela Albino.
+# Vending Machine FPGA
+
+Projeto desenvolvido para a disciplina de Arquitetura Digital.
+
+## Integrantes
+- Alisson Antunes
+- Bárbara dos Anjos
+- Gabriela Albino
+
+## Descrição
+Sistema de máquina de vendas implementado em VHDL utilizando FPGA.
